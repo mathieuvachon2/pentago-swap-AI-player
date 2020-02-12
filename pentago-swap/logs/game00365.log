@@ -1,0 +1,12 @@
+# Server version 0.08 running on 142.157.75.105:54321
+# Game ID: 365
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 19:20:53 EDT 2019
+# Player 1: Player-0, '260673394', running on vpn67051.vpn.mcgill.ca
+# Player 2: Player-1, '260673394', running on vpn67051.vpn.mcgill.ca
+START Player-0 260673394
+START Player-1 260673394
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed Apr 10 19:20:57 EDT 2019
